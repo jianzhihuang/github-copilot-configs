@@ -4,10 +4,10 @@
 
 ## 同步內容
 
-- **chatmodes/**: GitHub Copilot 聊天模式設定檔
-- **instructions/**: GitHub Copilot 指令檔案
-- **prompts/**: GitHub Copilot 提示檔案
-- **agents/**: GitHub Copilot 代理檔案
+- **.github/chatmodes/**: GitHub Copilot 聊天模式設定檔
+- **.github/instructions/**: GitHub Copilot 指令檔案
+- **.github/prompts/**: GitHub Copilot 提示檔案
+- **.github/agents/**: GitHub Copilot 代理檔案
 
 ## 同步時間
 
